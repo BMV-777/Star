@@ -1,7 +1,11 @@
-import logo from "./logo.svg";
+// import ProbStar from "./components/ProbStar/ProbStar";
 
-function App() {
-  return <div></div>;
-}
+// function App() {
+//   return (
+//     <div>
+//       <ProbStar />
+//     </div>
+//   );
+// }
 
-export default App;
+// export default App;
